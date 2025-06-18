@@ -1,0 +1,34 @@
+@import url(bootstrap-custom.css);
+
+.site-title,
+.footer-heading {
+	font-family: var(--heading);
+	font-size: 1.5rem;
+	font-weight: 800;
+	text-transform: uppercase;
+	line-height: normal;
+	letter-spacing: normal;
+}
+
+.footer-heading {
+	color: var(--primary);
+}
+
+.site-title {
+	padding: 1rem;
+	/* color: $background-color !important; */
+	/* background-color: $brand-color; */
+}
+
+.site-nav {
+	/* font-family: $heading-font-family; */
+	font-weight: 700;
+}
+
+.site-header {
+	margin-top: 3em;
+}
+
+.site-footer {
+	border-top-width: 3px;
+}

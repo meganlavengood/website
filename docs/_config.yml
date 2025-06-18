@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Megan Lavengood | music theorist
+title: Megan L. Lavengood
 author: Megan Lavengood
 email: mlavengo@gmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
@@ -28,7 +28,7 @@ url: "https://meganlavengood.github.io" # the base hostname & protocol for your 
 github_username:  meganlavengood
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
